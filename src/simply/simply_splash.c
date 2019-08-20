@@ -2,7 +2,7 @@
 
 #include "simply.h"
 
-#include "util/graphics.h"
+#include "../util/graphics.h"
 
 #include <pebble.h>
 

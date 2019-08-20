@@ -7,13 +7,13 @@
 
 #include "simply.h"
 
-#include "util/color.h"
-#include "util/compat.h"
-#include "util/graphics.h"
-#include "util/inverter_layer.h"
-#include "util/memory.h"
-#include "util/string.h"
-#include "util/window.h"
+#include "../util/color.h"
+#include "../util/compat.h"
+#include "../util/graphics.h"
+#include "../util/inverter_layer.h"
+#include "../util/memory.h"
+#include "../util/string.h"
+#include "../util/window.h"
 
 #include <pebble.h>
 
